@@ -1,6 +1,6 @@
 # MatrixLabs: My first Voice Assistant from Snips.ai
 
-To install the solution, use Sam:
+To use the solution, unzip it and deploy to your target device with Sam:
 ```
 sam install assistant -i proj_eP2oKV0z61y
 ```
